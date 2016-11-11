@@ -1,0 +1,10 @@
+/* TEAM */
+
+Site Author: Mattias Wickberg
+Twitter: mattiaswickberg
+Location: Stockholm
+
+/* SITE */
+Last update: 2016/11/11
+Standards: HTML5, CSS3, Jekyll, sass
+Software: Webstorm, git,
