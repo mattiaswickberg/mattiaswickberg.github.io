@@ -1,10 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Blog</title>
-</head>
-<body>
+---
+layout: page
+title: The Blog
+permalink: /blog/
+---
 
 <div class="home">
 
@@ -25,7 +23,3 @@
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
-
-
-</body>
-</html>

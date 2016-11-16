@@ -3,9 +3,17 @@ layout: page
 title: About
 permalink: /about/
 ---
+<img src="/pics/me.jpg" alt="image of TeacherGreencow" id="minime">
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+## Who am I?
+My name is Mattias Wickberg, and I am an opera singing teacher of language and communication. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I am currently working as Lead Teacher at at school called Stockholm Science & Innovation School, situated is Kista north of Stockholm,
+which I helped start in 2013. Here I teach Swedish, English, Communication, Interface Design, and when I'm not teaching I'm partly responsible 
+for the school's development, particularly when it comes to the pedagogical perspective and use of IT in education. 
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Other than that I study Web programming at Linnaeus university, mainly to deepen my knowledge on these matters, but also with the long-term goal of 
+teaching these subjects as well as building my own web applications for my work. 
+
+In my spare time, what I have after working full-time and studying full-time, I do amateur opera & theatre. The photo you see here 
+is from the production I did spring 2016, where I took the stage as count Fanfaluchi. 
