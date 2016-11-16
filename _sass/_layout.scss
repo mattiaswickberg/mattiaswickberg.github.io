@@ -16,10 +16,11 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    color: $lilac-light;
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: $lilac;
     }
 }
 
@@ -163,6 +164,7 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+    min-height: 300px;
 }
 
 .page-heading {
@@ -239,8 +241,15 @@
  * Images
  */
 
-#minime {
-    float:left;
-    width: 40%;
+.img {
     margin: 25px;
+    padding: 10px;
 }
+
+#minime {
+    @extend .img;
+    float:left;
+    width: 35%;
+}
+
+
