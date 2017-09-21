@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Welcome to my site!"
 date:   2016-11-10 15:41:00
 categories: jekyll update

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Reflections on Examination 1"
 date:   2016-11-16
 categories: jekyll update
